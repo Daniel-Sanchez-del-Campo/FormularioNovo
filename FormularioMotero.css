@@ -1,0 +1,104 @@
+body {
+	height: 100%;
+	background-image: url(https://img.redbull.com/images/q_auto,f_auto/redbullcom/2017/04/27/1331855467662_8/las-concentraciones-moteras-mas-famosas-del-mundo.jpg);
+	background-repeat: no-repeat;
+    background-attachment: fixed;  
+    background-size: cover;
+	
+}
+h1{
+	background-color: #e04d42;
+	border-color: lightblue;
+	border-radius: 20px;
+	border-style: solid;
+	height: 50px;
+	width: 406px;
+	margin-top: 10px;
+	padding-top: 5px;
+	padding-left: 5px;
+	text-shadow: 2px 2px 2px blueviolet;
+}
+
+img{
+    border-radius: 50%;
+    margin-left: 145px;
+}
+
+.contact_form{
+	width: 480px;
+	height: auto;
+	margin: 80px auto;
+	border-radius: 10px;
+	padding-top:30px;
+	padding-bottom: 20px;
+	padding-left: 20px;
+	background-image: url(https://img1.wallspic.com/previews/2/4/7/4/6/164742/164742-ducati_panigale_v4-ducati-motocicleta-v4_motor-ducati_959-500x.jpg);
+	background-repeat: no-repeat;
+}
+
+input {
+	background-color: lightblue;
+	height: 40px;
+	width: 408px;
+	border-radius: 5px;
+	border-style: solid;
+	border-width: 1px;
+	margin-top: 10px;
+	margin-bottom: 20px;
+	padding-left: 9px;
+}
+
+select{
+	background-color: lightblue;
+	border-color: black;
+	border-radius: 50px;
+	border-style: solid;
+	height: 25px;
+	width: 100px;
+	margin-top: 10px;
+	padding-top: 5px;
+	padding-left: 5px;
+}
+
+
+textarea{
+	background-color: lightblue;
+	height: 40px;
+	width: 408px;
+	border-radius: 5px;
+	border-style: solid;
+	margin-top: 10px;
+	padding-top: 5px;
+	padding-left: 5px;
+}
+
+button{
+
+}
+
+
+
+
+textarea:focus{
+	background-color: lightgrey;
+	outline: 0;
+	border: 3px solid black;
+}
+
+input:focus{
+	background-color: lightgrey;
+	outline: 0;
+	border: 3px solid black;
+}
+
+
+p{
+	background-color: #f15757;
+	height: 80px;
+	width: 426px;
+	border-radius: 5px;
+	border-style: solid;
+	margin-top: 10px;
+	padding-top: 5px;
+	padding-left: 5px;
+}
